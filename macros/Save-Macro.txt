@@ -1,0 +1,8 @@
+@{selected|wtype}&{template:npc} @{selected|npc_name_flag} {{type=Save}}; @{selected|rtype} + ?{Save
+|Strength, [[@{selected|npc_str_save}]][STR]]]&#125;&#125; {{rname=Strength Save&#125;&#125; {{r1=[[1d20 + [[@{selected|npc_str_save}]][STR]
+|Dexterity, [[@{selected|npc_dex_save}]][DEX]]]&#125;&#125; {{rname=Dexterity Save&#125;&#125; {{r1=[[1d20 + [[@{selected|npc_dex_save}]][DEX]
+|Constitution, [[@{selected|npc_con_save}]][CON]]]&#125;&#125; {{rname=Constitution Save&#125;&#125; {{r1=[[1d20 + [[@{selected|npc_con_save}]][CON]
+|Intelligence, [[@{selected|npc_int_save}]][INT]]]&#125;&#125; {{rname=Intelligence Save&#125;&#125; {{r1=[[1d20 + [[@{selected|npc_int_save}]][INT]
+|Wisdom, [[@{selected|npc_wis_save}]][WIS]]]&#125;&#125; {{rname=Wisdom Save&#125;&#125; {{r1=[[1d20 + [[@{selected|npc_wis_save}]][WIS]
+|Charisma, [[@{selected|npc_cha_save}]][CHA]]]&#125;&#125; {{rname=Charisma Save&#125;&#125; {{r1=[[1d20 + [[@{selected|npc_cha_save}]][CHA]
+} ]] }}
