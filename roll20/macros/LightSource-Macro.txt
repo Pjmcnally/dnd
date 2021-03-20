@@ -1,0 +1,1 @@
+/w gm ?{Light Source|Torch,Torch: 20/20 - 1 hour|Light (Cantrip),Light (Cantrip): 20/20|Lamp,Lamp: 15/15 - 6 hours|Hooded Lantern,Hooded Lantern: 30/30 - 6 hours|Bullseye Lantern,Bullseye Lantern: 60/60 (45 Deg wedge) - 6 hours|Candle,Candle: 5/5 - 1 hour|Key,Source: Bright/Dim (note) - Duration}
