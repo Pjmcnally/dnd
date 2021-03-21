@@ -2,3 +2,4 @@ Roll20
 longsword
 gp
 Gulthias
+orcish
