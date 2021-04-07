@@ -13,6 +13,7 @@
         - @Axes of Leilon There will be 1 workweek (5 days) of downtime between now and the next session. Please let me know what, if anything, you would like to do with your downtime. Please reply to this in the new "downtime" text channel. If you have any questions about downtime please let me know.
 3. Roll20 Housekeeping
     - Add new items, npcs, etc to Roll20
+    - Clean up and archive map
     - Update "Next Session" note in Roll20
     - Update calendar in Roll20
     - Update "Stores & Shopping" notes
