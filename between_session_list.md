@@ -6,7 +6,7 @@
     - Finish any unresolved issues from last session (in-game)
 2. Discord Housekeeping
     - Clean up previous announcements
-    - Update "Next Session"  note in Discord
+    - Update "Next Session" note in Discord
     - Update calendar Discord
     - Update items available to purchase
     - Post announcement about upcoming downtime
