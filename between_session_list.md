@@ -6,8 +6,8 @@
     - Finish any unresolved issues from last session (in-game)
 2. Discord Housekeeping
     - Clean up previous announcements
-    - Update "Next Session" note in Discord
-    - Update calendar Discord
+    - Update "Next Session" post in Discord
+    - Update "Current Date" post in Discord
     - Update items available to purchase
     - Post announcement about upcoming downtime
         - @Axes of Leilon There will be 1 workweek (5 days) of downtime between now and the next session. Please let me know what, if anything, you would like to do with your downtime. Please reply to this in the new "downtime" text channel. If you have any questions about downtime please let me know.
